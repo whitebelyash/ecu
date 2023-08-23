@@ -1,5 +1,5 @@
 name: EmptyChunkUnsaver
-description: Save disk space by cancelling
+description: Shrink world size by cancelling unchanged chunk save
 version: '${project.version}'
 main: ru.whbex.ecu.Main
 api-version: 1.19
